@@ -4,6 +4,10 @@ layout: homepage
 
 ## About Me
 
+I am an interdisciplinary conservation geographer, trained in conservation and land system science, and ecological economics. My research integrates methodologies from geography, remote sensing, econometrics, spatial ecology, and conservation planning to gain insights into coupled human-nature systems. Currently, my work focuses on integrating remote sensing observations, socioeconomic information, and robust econometric causal inference to assess the effects of conservation initiatives on ecosystems and human well-being, while also developing systematic conservation planning.
+
+I am currently working as a PhD student in the Environment and Society Group at the University of Copenhagen under the mentorship of Prof.<a href="https://ign.ku.dk/english/employees/geography/?pure=en/persons/501467" target="_blank"> Alexander Prishchepov</a>. I completed my master's degree in Land Economics and bachelor's degree in Land Resource Management.
+
 I'm a <a href="https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/" target="_blank"> Biostatistics</a> Ph.D. candidate at <a href="https://www.nyu.edu/" target="_blank"> New York University</a>'s <a href="https://med.nyu.edu/" target="_blank"> Grossman School of Medicine</a>,
 <!-- , specifically within the <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Vilcek institute of Biomedical Sciences</a> and the Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>. Under the mentorship of Prof.  -->
 working under the mentorship of Prof.<a href="https://med.nyu.edu/faculty/thaddeus-tarpey" target="_blank"> Thaddeus Tarpey</a>. My research involves developing statistical models that cater to high-dimensional complex data, such as functional and imaging data.
@@ -18,10 +22,9 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 
 
 ## Research Interests
-- **Manifold Learning:** positive semi-definite manifolds learning
-- **Machine Learning:** fairness AI, penalization and augmentation methods
-- **Functional Data Analysis:** functional regression, and clustering methods
-- **High-Dimensional Statistics:** matrix-valued regression and clustering, positive semi-definite matrices estimations
+- **Manifold Learning:** The impacts of conservation/development initiatives on ecosystem services and human well-being
+- **Machine Learning:** Spatial prioritization in systematic conservation planning
+- **Functional Data Analysis:** Social-ecological consequences of land use/land cover change
 
 
 ## Awards
