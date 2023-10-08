@@ -34,8 +34,8 @@ twitter: https://twitter.com/XiaYiHao
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/WebPic.jpg
 # logo: ./assets/img/logo.png
-favicon: ./assets/img/biodiversity.png
-favicon_dark: ./assets/img/biodiversity.png
+favicon: ./assets/img/natural-resources.png
+favicon_dark: ./assets/img/natural-resources.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
