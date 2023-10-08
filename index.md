@@ -10,7 +10,7 @@ I am currently working as a PhD student in the <a href="https://ign.ku.dk/englis
 
 
 ## Research Interests
-- **Assessment of conservation interventions:** The impacts of conservation/development initiatives on ecosystem services and human well-being
+- **Conservation interventions:** The impacts of conservation/development initiatives on ecosystem services and human well-being
 - **Spatial planning:** Spatial prioritization in systematic conservation planning
 - **Land use/land cover:** Social-ecological consequences of land use/land cover change
 
