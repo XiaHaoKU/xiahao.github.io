@@ -6,7 +6,7 @@ layout: homepage
 
 I am an interdisciplinary conservation geographer, trained in conservation and land system science, and ecological economics. My research integrates methodologies from geography, remote sensing, econometrics, spatial ecology, and conservation planning to gain insights into coupled human-nature systems. Currently, my work focuses on integrating remote sensing observations, socioeconomic information, and robust econometric causal inference to assess the effects of conservation initiatives on ecosystems and human well-being, while also developing systematic conservation planning.
 
-I am currently working as a PhD student in the <a href="https://ign.ku.dk/english/research/geography/environment-society-developing-countries/" target="_blank"> Environment and Society Group (Beijing)</a> at the University of Copenhagen under the mentorship of Prof.<a href="https://ign.ku.dk/english/employees/geography/?pure=en/persons/501467" target="_blank"> Alexander Prishchepov</a>. I completed my master's degree in Land Economics and bachelor's degree in Land Resource Management.
+I am currently working as a PhD student in the <a href="https://ign.ku.dk/english/research/geography/environment-society-developing-countries/" target="_blank"> Environment and Society Group</a> at the University of Copenhagen under the mentorship of Prof.<a href="https://ign.ku.dk/english/employees/geography/?pure=en/persons/501467" target="_blank"> Alexander Prishchepov</a>. I completed my master's degree in Land Economics and bachelor's degree in Land Resource Management.
 
 
 ## Research Interests
