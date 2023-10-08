@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an interdisciplinary conservation geographer, trained in conservation and land system science, and ecological economics. In my work, I integrate methodologies from geography, remote sensing, econometrics, spatial ecology, and conservation planning to gain insights into coupled human-nature systems.
+I am an interdisciplinary conservation geographer, trained in conservation and land system science, and ecological economics. In my work, I integrate methodologies from remote sensing, econometrics, spatial ecology, social-ecological networks, and conservation planning to gain insights into coupled human-nature systems.
 
 My ongoing Ph.D. project focuses on integrating remote sensing observations, socioeconomic information, and robust econometric causal inference to assess the effects of conservation initiatives (including protected areas and ecological function zones) on <a href="https://www.ipbes.net/glossary-tag/natures-contributions-people" target="_blank"> nature's contributions to people</a> and human well-being, while also developing systematic conservation planning to identify conservation priorities.
 
