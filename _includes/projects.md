@@ -43,8 +43,8 @@
     <div class="periodical"><em><strong>Biological Conservation</strong>, Sept. 2023.</em></div>
     <div class="links">
     <a href="https://doi.org/10.1016/j.biocon.2023.110254" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="assets/files/2023NatureReserve.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/Hanchao-Zhang/KTensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
+      <a href="https://drive.google.com/file/d/1piOR7XYFCx2L6y_4_2931jFlmUbNaQCG/view?usp=drive_link" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/XiaHaoKU/GNNReffectiveness" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
