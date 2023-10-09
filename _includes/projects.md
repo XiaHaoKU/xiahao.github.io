@@ -36,7 +36,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/PAeffectiveness.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Protected Area</abbr>
+    <abbr class="badge">Conservation Assessment</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -58,7 +58,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/RCRfig.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Ecological Zoning</abbr>
+    <abbr class="badge">Spatial Conservation Planning</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -144,11 +144,11 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/PApic.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Protected Area</abbr>
+    <abbr class="badge">Conservation Assessment</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="">Protected areas in China attain social and ecological benefits but face potential trade-offs with farming</a></div>
+    <div class="title"><a href="">Protected areas in China attain both social and ecological benefits but face potential trade-offs with farming</a></div>
     <div class="author"><strong>Hao Xia</strong>, et al.</div>
     <div class="periodical"><em><strong>In Prep</strong></em></div>
     <div class="links">
@@ -156,6 +156,44 @@
   </div>
 </div>
 </li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/NKEFZ_new.tif" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Conservation Assessment</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="">Does the eco‑zoning initiative spur human well‑being and resilience to poverty? A quasi‑natural experiment in China</a></div>
+    <div class="author"><strong>Hao Xia</strong>, et al.</div>
+    <div class="periodical"><em><strong>In Prep</strong></em></div>
+    <div class="links">
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/Karstpic.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Spatial Conservation Planning</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="">Scenario‑based land‑use simulation and integrated analysis of ecosystem service bundles in karst landscapes</a></div>
+    <div class="author">Xiangyun Shi, <strong>Hao Xia</strong>, et al.</div>
+    <div class="periodical"><em><strong>In Review</strong></em></div>
+    <div class="links">
+    </div>
+  </div>
+</div>
+</li>
+
 
 <br>
 
