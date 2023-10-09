@@ -23,7 +23,6 @@ I am currently working as a Ph.D. student in the <a href="https://ign.ku.dk/engl
 
 {% include_relative _includes/projects.md %}
 
-{% include_relative _includes/talks.md %}
 
 
 
