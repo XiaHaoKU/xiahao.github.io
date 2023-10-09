@@ -72,12 +72,13 @@
 </div>
 </li>
 
+
 <li>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/JRSpic.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Land use</abbr>
+    <abbr class="badge">Land Use</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -87,6 +88,27 @@
     <div class="links">
     <a href="https://doi.org/10.1016/j.jrurstud.2020.10.023" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://drive.google.com/file/d/1--hwtMdq5w5gXUf_IvlEwQnTBTXP7YMD/view?usp=drive_link" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/ENAR2023.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Land Surface Temperature</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://doi.org/10.1007/s11356-020-08672-w">How changing grain size affects the land surface temperature pattern in rapidly urbanizing area: a case study of the central urban districts of Hangzhou City, China</a></div>
+    <div class="author">Shaofeng Yuan, <strong>Hao Xia</strong>, Lixia Yang</div>
+    <div class="periodical"><em><strong>Environmental Science and Pollution Research</strong>, Aug. 2021.</em></div>
+    <div class="links">
+    <a href="https://doi.org/10.1007/s11356-020-08672-w" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://drive.google.com/file/d/1gpgbnD6rzWOi5cQ7K4AyUDaqCcPtsR_c/view?usp=drive_link" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
