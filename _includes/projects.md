@@ -60,7 +60,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://doi.org/10.1016/j.biocon.2023.110254">Spatial-temporal heterogeneity of ecosystem service interactions and their social-ecological drivers: Implications for spatial planning and management</a></div>
+    <div class="title"><a href="https://doi.org/10.1016/j.resconrec.2022.106767">Spatial-temporal heterogeneity of ecosystem service interactions and their social-ecological drivers: Implications for spatial planning and management</a></div>
     <div class="author"><strong>Hao Xia</strong>, Shaofeng Yuan, Alexander V. Prishchepov</div>
     <div class="periodical"><em><strong>Resources, Conservation and Recycling</strong>, Feb. 2023.</em></div>
     <div class="links">
