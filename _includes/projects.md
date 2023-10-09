@@ -55,19 +55,18 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/OCS.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">AHI</abbr>
+    <img src="assets/img/RCRfig.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Resources, Conservation and Recycling</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://americanhealth.jhu.edu/open-case-studies" target="_blank">Open Case Studies</a></div>
-    <div class="author">Stephanie Hicks, Leah Jager, Margaret Taub, Carrie Wright, John Muschelli, Lyla Atta, Michael Breshock, Qier Meng, Alexandra Stephens, <strong>Hanchao Zhang</strong>, and etc. </div>
-    <div class="periodical"><em>the Johns Hopkins University, and Bloomberg American Health Initiative.</em></div>
+    <div class="title"><a href="https://doi.org/10.1016/j.biocon.2023.110254">Spatial-temporal heterogeneity of ecosystem service interactions and their social-ecological drivers: Implications for spatial planning and management</a></div>
+    <div class="author"><strong>Hao Xia</strong>, Shaofeng Yuan, Alexander V. Prishchepov</div>
+    <div class="periodical"><em><strong>Resources, Conservation and Recycling</strong>, Feb. 2023.</em></div>
     <div class="links">
-      <a href="https://americanhealth.jhu.edu/open-case-studies" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://github.com/orgs/opencasestudies/teams/jhu-research-assistants" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
-      <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Contact</a>
+    <a href="https://doi.org/10.1016/j.resconrec.2022.106767" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://drive.google.com/file/d/1BtUB-QEzJ0rwHhGOYu_eNKh3ZcIFTaly/view?usp=drive_link" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://space.bilibili.com/201337684/channel/seriesdetail?sid=3677977&ctype=0" role="button" target="_blank" style="font-size:12px;">Tutorial</a>
     </div>
   </div>
 </div>
