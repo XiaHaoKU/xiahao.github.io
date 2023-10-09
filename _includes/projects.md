@@ -38,8 +38,8 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2306.06534">K-Tensors: Clustering Positive Semi-Definite Matrices</a></div>
-    <div class="author"><strong>Hanchao Zhang, Thaddeus Tarpey</strong></div>
+    <div class="title"><a href="https://doi.org/10.1016/j.biocon.2023.110254">Assessing forest conservation outcomes of a nature reserve in a subtropical forest ecosystem: effectiveness, spillover effects, and insights for spatial conservation prioritization</a></div>
+    <div class="author"><strong>Hao Xia</strong>, Han Li, Alexander V. Prishchepov</div>
     <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, Jun. 2023.</em></div>
     <div class="links">
     <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
