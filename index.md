@@ -18,8 +18,17 @@ I am currently working as a Ph.D. student in the <a href="https://ign.ku.dk/engl
 
 
 ## News
-- **[Oct. 2023] Attended the GSC Conference** - I recently participated in the GSC Conference hosted by the University of Copenhagen's Green Solutions Centre. This event brought together sustainability experts to discuss innovative environmental solutions.
-- **[Sept. 2023] Presented Research at the 52nd GfÖ Annual Meeting** - I presented <a href="https://doi.org/10.1016/j.biocon.2023.110254" target="_blank"> our research</a>, published in Biological Conservation, at the 52nd <a href="https://www.gfoe-conference.de/index.php?cat=show_start" target="_blank"> Annual Meeting</a> of the Ecological Society of Germany, Austria, and Switzerland (GfÖ) in Leipzig hosted by <a href="https://www.idiv.de/en/index.html" target="_blank"> iDiv</a>. This work focused on protected areas' effectiveness, spillover effects, and conservation prioritization, contributing to discussions on conservation challenges.
+- **[Oct. 2023] Attended the GSC Conference**
+  I recently participated in the GSC Conference hosted by the University of Copenhagen's Green Solutions Centre. This event brought together sustainability experts to discuss innovative environmental solutions.
+
+- **[Sept. 2023] Presented Research at the 52nd GfÖ Annual Meeting**
+  I presented <a href="https://doi.org/10.1016/j.biocon.2023.110254" target="_blank"> our research</a>, published in Biological Conservation, at the 52nd <a href="https://www.gfoe-conference.de/index.php?cat=show_start" target="_blank"> Annual Meeting</a> of the Ecological Society of Germany, Austria, and Switzerland (GfÖ) in Leipzig hosted by <a href="https://www.idiv.de/en/index.html" target="_blank"> iDiv</a>. This work focused on protected areas' effectiveness, spillover effects, and conservation prioritization, contributing to discussions on conservation challenges.
+
+- **[Sept. 2023] Dive into Biodiversity at the Blue-Green Biodiversity Summer School!**
+  This month, I had the privilege of attending the Blue-Green Biodiversity Summer School, co-organized by the <a href="https://www.wsl.ch/en/" target="_blank"> WSL</a> Biodiversity Center and the <a href="https://www.wsl.ch/en/about-wsl/organisation/programmes-and-initiatives/blue-green-biodiversity-research-initiative/"> Blue-Green Biodiversity Research Initiative</a>. This exceptional summer school featured outstanding speakers and an enriching program, all set against the breathtaking backdrop of the Swiss Alps.
+  During this immersive experience, I engaged in discussions with seasoned researchers and peers, delving deep into the fascinating world of biodiversity. The program allowed us to explore the intricate connections between aquatic and terrestrial ecosystems while highlighting the interdependencies between social and ecological systems.
+  It was a truly remarkable opportunity to expand my knowledge and gain insights into the complexities of biodiversity, all in the heart of the stunning Swiss Alps.
+
 
 
 <!-- {% include_relative _includes/publications.md %} -->
