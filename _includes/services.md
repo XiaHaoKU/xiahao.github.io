@@ -1,4 +1,4 @@
-## Services
+## Outreach & Professional Development
 <!-- 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
@@ -16,9 +16,17 @@
   <li><a href="https://esp.apacsci.com/index.php/esp" target="_blank"> Environment and Social Psychology </a></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Membership & Activities</h4>
+<h4 style="margin:0 10px 0;">Profesional Memberships</h4>
 
 <ul style="margin:0 0 20px;">
   <li><strong>[2022-present]</strong> Member of the <a href="https://conbio.org/" target="_blank"> Society for Conservation Biology </a></li>
   <li><strong>[2022-present]</strong> Member of the <a href="https://glp.earth/users/hao-xia" target="_blank"> Global Land Programme </a></li>
+</ul>
+
+<h4 style="margin:0 10px 0;">Workshop/Courses Attended</h4>
+
+<ul style="margin:0 0 20px;">
+  <li><strong>[Jun. 2023] Workshop</strong>, 4EU+ international workshop on land abandonment and invasive species, Prague</li>
+  <li><strong>[Jul. 2023] Summer School</strong>, Global farmland abandonment: patterns, drivers and implications, Copenhagen</li>
+  <li><strong>[Aug. 2023] Summer School</strong>, WSL Blue‑green biodiversity, Davos</li>
 </ul>
