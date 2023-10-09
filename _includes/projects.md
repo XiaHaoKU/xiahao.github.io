@@ -56,7 +56,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/RCRfig.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Ecosystem services</abbr>
+    <abbr class="badge">Ecological Zoning</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -99,7 +99,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/ESPRpic.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Land Surface Temperature</abbr>
+    <abbr class="badge">Urban Environment</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -120,7 +120,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/JCPpic.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Carbon emissions</abbr>
+    <abbr class="badge">Urban Environment</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
