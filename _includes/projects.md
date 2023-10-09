@@ -113,6 +113,27 @@
   </div>
 </div>
 </li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/JCPpic.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Carbon emissions</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://doi.org/10.1016/j.jclepro.2018.01.116">What matters for carbon emissions in regional sectors? A China study of extended STIRPAT model</a></div>
+    <div class="author">Lixia Yang, <strong>Hao Xia</strong>, Xiaoling Zhang, Shaofeng Yuan</div>
+    <div class="periodical"><em><strong>Journal of Cleaner Production</strong>, Apr. 2018.</em></div>
+    <div class="links">
+    <a href="https://doi.org/10.1016/j.jclepro.2018.01.116" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://drive.google.com/file/d/166xmgsQ4VyOxod-dw23TYfGw57T-_0vD/view?usp=drive_link" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
   
 <br>
 
