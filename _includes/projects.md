@@ -36,7 +36,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/PAeffectiveness.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Protected area</abbr>
+    <abbr class="badge">Protected Area</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -136,7 +136,27 @@
   </div>
 </div>
 </li>
-  
+
+<h4 style="margin:0 10px 0;"><strong>IN PREP & SUBMITTED</strong></h4>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/PApic.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Protected Area</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="">Protected areas in China attain social and ecological benefits but face potential trade-offs with farming</a></div>
+    <div class="author"><strong>Hao Xia</strong>, et al.</div>
+    <div class="periodical"><em><strong>In Prep</strong></em></div>
+    <div class="links">
+    </div>
+  </div>
+</div>
+</li>
+
 <br>
 
 </ol>
