@@ -17,8 +17,9 @@ I am currently working as a Ph.D. student in the <a href="https://ign.ku.dk/engl
 - **Land use/land cover:** Social-ecological consequences of land use/land cover change
 
 
-## Awards
-- **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities
+## News
+- **[Oct. 2023] Attended the GSC Conference** - I recently participated in the GSC Conference hosted by the University of Copenhagen's Green Solutions Centre. This event brought together sustainability experts to discuss innovative environmental solutions.
+- **[Sept. 2023] Presented Research at the 52nd GfÖ Annual Meeting** - I presented <a href="https://doi.org/10.1016/j.biocon.2023.110254" target="_blank"> our research</a>, published in Biological Conservation, at the 52nd <a href="https://www.gfoe-conference.de/index.php?cat=show_start" target="_blank"> Annual Meeting</a> of the Ecological Society of Germany, Austria, and Switzerland (GfÖ) in Leipzig hosted by <a href="https://doi.org/10.1016/j.biocon.2023.110254" target="_blank"> our research</a>, published in Biological Conservation, at the 52nd <a href="https://www.idiv.de/en/index.html" target="_blank"> iDiv</a>. This work focused on protected areas' effectiveness, spillover effects, and conservation prioritization, contributing to discussions on conservation challenges.
 
 
 <!-- {% include_relative _includes/publications.md %} -->
