@@ -3,6 +3,8 @@
 <div class="publications">
 <ol class="bibliography">
 
+<h4 style="margin:0 10px 0;">PUBLISHED</h4>
+
 <!-- 
 <li>
 <div class="pub-row">
