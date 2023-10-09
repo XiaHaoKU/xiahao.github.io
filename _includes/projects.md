@@ -34,7 +34,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/PAeffectiveness.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Nature Reserve</abbr>
+    <abbr class="badge">Protected area</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -67,6 +67,26 @@
     <a href="https://doi.org/10.1016/j.resconrec.2022.106767" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://drive.google.com/file/d/1BtUB-QEzJ0rwHhGOYu_eNKh3ZcIFTaly/view?usp=drive_link" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://space.bilibili.com/201337684/channel/seriesdetail?sid=3677977&ctype=0" role="button" target="_blank" style="font-size:12px;">Tutorial in Chinese</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/JRSpic.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Land use</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://doi.org/10.1016/j.jrurstud.2020.10.023">Peasant households’ land use decision-making analysis using social network analysis: A case of Tantou Village, China</a></div>
+    <div class="author"><strong>Hao Xia</strong>, Cuizhen Li, De Zhou, Yueyue Zhang, Jieliang Xu</div>
+    <div class="periodical"><em><strong>Journal of Rural Studies</strong>, Dec. 2020.</em></div>
+    <div class="links">
+    <a href="https://doi.org/10.1016/j.jrurstud.2020.10.023" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://drive.google.com/file/d/1--hwtMdq5w5gXUf_IvlEwQnTBTXP7YMD/view?usp=drive_link" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
