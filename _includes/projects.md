@@ -34,7 +34,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/PAeffectiveness.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Biological Conservation</abbr>
+    <abbr class="badge">Nature Reserve</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -56,7 +56,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/RCRfig.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Resources, Conservation and Recycling</abbr>
+    <abbr class="badge">Ecosystem services</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -66,7 +66,7 @@
     <div class="links">
     <a href="https://doi.org/10.1016/j.resconrec.2022.106767" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://drive.google.com/file/d/1BtUB-QEzJ0rwHhGOYu_eNKh3ZcIFTaly/view?usp=drive_link" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://space.bilibili.com/201337684/channel/seriesdetail?sid=3677977&ctype=0" role="button" target="_blank" style="font-size:12px;">Tutorial (in Chinese)</a>
+      <a href="https://space.bilibili.com/201337684/channel/seriesdetail?sid=3677977&ctype=0" role="button" target="_blank" style="font-size:12px;">Tutorial in Chinese</a>
     </div>
   </div>
 </div>
