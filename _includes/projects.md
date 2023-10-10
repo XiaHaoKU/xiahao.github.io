@@ -24,7 +24,7 @@
       <a href="https://github.com/Hanchao-Zhang/Self-Consistency-Clustering" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
       <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
       <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
-      <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
+      <strong><i style="color:#077438">arXiv.org</i></strong>
     </div>
   </div>
 </div>
@@ -133,7 +133,7 @@
     <div class="links">
     <a href="https://doi.org/10.1016/j.jclepro.2018.01.116" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://drive.google.com/file/d/166xmgsQ4VyOxod-dw23TYfGw57T-_0vD/view?usp=drive_link" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong><i style="color:#7b5aa6">ESI Highly cited paper</i></strong>
+      <strong><i style="color:#077438">ESI Highly cited paper</i></strong>
     </div>
   </div>
 </div>
