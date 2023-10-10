@@ -6,11 +6,12 @@ layout: homepage
 
 ## About Me
 
-I am an interdisciplinary conservation geographer, trained in conservation and land system science, and ecological economics. In my work, I integrate methodologies from remote sensing, econometrics, spatial ecology, social-ecological networks, and conservation planning to gain insights into coupled human-nature systems.
-
-My ongoing Ph.D. project focuses on integrating remote sensing observations, socioeconomic information, and robust econometric causal inference to assess the effects of conservation initiatives (including protected areas and ecological function zones) on <a href="https://www.ipbes.net/glossary-tag/natures-contributions-people" target="_blank"> nature's contributions to people</a> and human well-being, while also developing systematic conservation planning to identify conservation priorities.
+I am an interdisciplinary conservation geographer, trained in conservation and land system science, and ecological economics. In my work, I integrate methodologies from remote sensing, econometrics, spatial ecology, social-ecological networks, and conservation planning to gain insights into coupled human-nature systems and explore nature-based solutions.
 
 I am currently working as a Ph.D. student in the <a href="https://ign.ku.dk/english/research/geography/environment-society-developing-countries/" target="_blank"> Environment and Society Group</a> at the University of Copenhagen under the mentorship of Prof.<a href="https://ign.ku.dk/english/employees/geography/?pure=en/persons/501467" target="_blank"> Alexander Prishchepov</a>. I completed my master's degree in Land Economics and bachelor's degree in Land Resource Management.
+
+My ongoing Ph.D. project focuses on integrating remote sensing observations, socioeconomic data, and robust econometric causal inference to assess the effects of conservation actions (including protected areas and ecological function zones) on <a href="https://www.ipbes.net/glossary-tag/natures-contributions-people" target="_blank"> nature's contributions to people</a> and human well-being, while also developing systematic conservation planning to identify conservation priorities for a nature-positive future.
+
 
 
 ## Research Interests
