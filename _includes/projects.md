@@ -69,7 +69,7 @@
     <a href="https://doi.org/10.1016/j.resconrec.2022.106767" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://drive.google.com/file/d/1BtUB-QEzJ0rwHhGOYu_eNKh3ZcIFTaly/view?usp=drive_link" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://space.bilibili.com/201337684/channel/seriesdetail?sid=3677977&ctype=0" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Tutorial</a>
-      <strong><i style="color:#7b5aa6">ESI Highly cited paper</i></strong>
+      <strong><i style="color:#077438">ESI Highly cited paper</i></strong>
     </div>
   </div>
 </div>
