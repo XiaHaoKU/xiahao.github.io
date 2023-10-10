@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## <a href="https://ign.ku.dk/english/research/geography/environment-society-developing-countries/" target="_blank">Land systems | Natural Conservation | Nature-based solutions</a>
+## <a href="" target="_blank">Land systems | Natural Conservation | Nature-based solutions</a>
 
 ## About Me
 
