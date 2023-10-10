@@ -36,7 +36,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/PAeffectiveness.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Conservation Assessment</abbr>
+    <abbr class="badge">Conservation Assessment & Planning</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -58,7 +58,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/RCRfig.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Spatial Conservation Planning</abbr>
+    <abbr class="badge">Ecosystem Services & Spatial Planning</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -148,7 +148,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="">Protected areas in China attain both social and ecological benefits but face potential trade-offs with farming</a></div>
+    <div class="title"><a href="">Protected areas are effective on delivering both social and ecological benefits in China</a></div>
     <div class="author"><strong>Hao Xia</strong>, et al.</div>
     <div class="periodical"><em><strong>In Prep</strong></em></div>
     <div class="links">
@@ -181,7 +181,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/Karstpic2.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Spatial Conservation Planning</abbr>
+    <abbr class="badge">Ecosystem Services & Spatial Planning</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
