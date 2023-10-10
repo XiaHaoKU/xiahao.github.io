@@ -2,6 +2,8 @@
 layout: homepage
 ---
 
+## <a href="https://ign.ku.dk/english/research/geography/environment-society-developing-countries/" target="_blank">Land systems | Natural Conservation | Nature-based solutions</a>
+
 ## About Me
 
 I am an interdisciplinary conservation geographer, trained in conservation and land system science, and ecological economics. In my work, I integrate methodologies from remote sensing, econometrics, spatial ecology, social-ecological networks, and conservation planning to gain insights into coupled human-nature systems.
