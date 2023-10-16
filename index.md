@@ -30,8 +30,8 @@ My ongoing Ph.D. project focuses on integrating remote sensing observations, soc
 
 
 
-
-## News
+<details open>
+  <summary>## News</summary>
 - **[Oct. 2023] Attended the GSC Conference**  
 I recently participated in the GSC Conference hosted by the University of Copenhagen's Green Solutions Centre. This event brought together sustainability experts to discuss innovative environmental solutions.
 
@@ -44,7 +44,7 @@ This month, I had the privilege of attending the Blue-Green Biodiversity Summer 
 During this immersive experience, I engaged in discussions with seasoned researchers and peers, delving deep into the fascinating world of biodiversity. The program allowed us to explore the intricate connections between aquatic and terrestrial ecosystems while highlighting the interdependencies between social and ecological systems.  
 It was a truly remarkable opportunity to expand my knowledge and gain insights into the complexities of biodiversity, all in the heart of the stunning Swiss Alps.
 
-
+</details>
 
 
 {% include_relative _includes/services.md %}
