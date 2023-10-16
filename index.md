@@ -29,7 +29,7 @@ My ongoing Ph.D. project focuses on integrating remote sensing observations, soc
 
 
 
- ##News
+## News
 <details open>
   <summary>News update</summary>
  
