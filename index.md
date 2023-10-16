@@ -30,8 +30,6 @@ My ongoing Ph.D. project focuses on integrating remote sensing observations, soc
 
 
 ## News
-<details open>
-  <summary>News update</summary>
  
 - **[Oct. 2023] Attended the GSC Conference**  
 I recently participated in the GSC Conference hosted by the University of Copenhagen's Green Solutions Centre. This event brought together sustainability experts to discuss innovative environmental solutions.
@@ -44,6 +42,14 @@ This work focused on protected areas' effectiveness, spillover effects, and cons
 This month, I had the privilege of attending the Blue-Green Biodiversity Summer School, co-organized by the <a href="https://www.wsl.ch/en/" target="_blank"> WSL</a> Biodiversity Center and the <a href="https://www.wsl.ch/en/about-wsl/organisation/programmes-and-initiatives/blue-green-biodiversity-research-initiative/"> Blue-Green Biodiversity Research Initiative</a>. This exceptional summer school featured outstanding speakers and an enriching program, all set against the breathtaking backdrop of the Swiss Alps.  
 During this immersive experience, I engaged in discussions with seasoned researchers and peers, delving deep into the fascinating world of biodiversity. The program allowed us to explore the intricate connections between aquatic and terrestrial ecosystems while highlighting the interdependencies between social and ecological systems.  
 It was a truly remarkable opportunity to expand my knowledge and gain insights into the complexities of biodiversity, all in the heart of the stunning Swiss Alps.
+
+<details open>
+  <summary>More News</summary>
+- **[Aug. 2023] Dive into Biodiversity at the Blue-Green Biodiversity Summer School!**  
+This month, I had the privilege of attending the Blue-Green Biodiversity Summer School, co-organized by the <a href="https://www.wsl.ch/en/" target="_blank"> WSL</a> Biodiversity Center and the <a href="https://www.wsl.ch/en/about-wsl/organisation/programmes-and-initiatives/blue-green-biodiversity-research-initiative/"> Blue-Green Biodiversity Research Initiative</a>. This exceptional summer school featured outstanding speakers and an enriching program, all set against the breathtaking backdrop of the Swiss Alps.  
+During this immersive experience, I engaged in discussions with seasoned researchers and peers, delving deep into the fascinating world of biodiversity. The program allowed us to explore the intricate connections between aquatic and terrestrial ecosystems while highlighting the interdependencies between social and ecological systems.  
+It was a truly remarkable opportunity to expand my knowledge and gain insights into the complexities of biodiversity, all in the heart of the stunning Swiss Alps.
+
 
 </details>
 
