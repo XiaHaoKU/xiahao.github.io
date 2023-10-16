@@ -44,7 +44,7 @@ During this immersive experience, I engaged in discussions with seasoned researc
 It was a truly remarkable opportunity to expand my knowledge and gain insights into the complexities of biodiversity, all in the heart of the stunning Swiss Alps.
 
 <details>
-  <summary>More News ... </summary>
+  <summary>More News ... </summary>  
 
  - **[July 2023] Uncovering Global Farmland Mysteries: My Summer School Adventure**  
 In July, I had the remarkable opportunity to delve into the captivating world of farmland abandonment at the "Global Farmland Abandonment: Patterns, Drivers, and Implications" summer school, hosted by the <a href="https://ign.ku.dk/" target="_blank">Department of Geosciences and Natural Resource Management</a> at the University of Copenhagen, and led by Prof. <a href="https://ign.ku.dk/english/employees/geography/?pure=en/persons/501467" target="_blank"> Alexander Prishchepov</a>.  
