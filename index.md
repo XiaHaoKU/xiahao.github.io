@@ -41,7 +41,7 @@ This work focused on protected areas' effectiveness, spillover effects, and cons
 - **[Aug. 2023] Dive into Biodiversity at the Blue-Green Biodiversity Summer School!**  
 This month, I had the privilege of attending the Blue-Green Biodiversity Summer School, co-organized by the <a href="https://www.wsl.ch/en/" target="_blank"> WSL</a> Biodiversity Center and the <a href="https://www.wsl.ch/en/about-wsl/organisation/programmes-and-initiatives/blue-green-biodiversity-research-initiative/"> Blue-Green Biodiversity Research Initiative</a>. This exceptional summer school featured outstanding speakers and an enriching program, all set against the breathtaking backdrop of the Swiss Alps.  
 During this immersive experience, I engaged in discussions with seasoned researchers and peers, delving deep into the fascinating world of biodiversity. The program allowed us to explore the intricate connections between aquatic and terrestrial ecosystems while highlighting the interdependencies between social and ecological systems.  
-It was a truly remarkable opportunity to expand my knowledge and gain insights into the complexities of biodiversity, all in the heart of the stunning Swiss Alps.
+It was a truly remarkable opportunity to expand my knowledge and gain insights into the complexities of biodiversity, all in the heart of the stunning Swiss Alps.  
 
 <details>
   <summary>More News ... </summary>  
@@ -49,7 +49,7 @@ It was a truly remarkable opportunity to expand my knowledge and gain insights i
  - **[July 2023] Uncovering Global Farmland Mysteries: My Summer School Adventure**  
 In July, I had the remarkable opportunity to delve into the captivating world of farmland abandonment at the "Global Farmland Abandonment: Patterns, Drivers, and Implications" summer school, hosted by the <a href="https://ign.ku.dk/" target="_blank">Department of Geosciences and Natural Resource Management</a> at the University of Copenhagen, and led by Prof. <a href="https://ign.ku.dk/english/employees/geography/?pure=en/persons/501467" target="_blank"> Alexander Prishchepov</a>.  
 This educational journey was truly captivating. We explored the intricacies of farmland abandonment, unraveling its causes and its profound consequences on agriculture, biodiversity, and climate mitigation.
-Through hands-on experiences, we honed our skills in using statistics and satellite data to measure farmland abandonment. We delved deep into existing theories, and we learned to create surveys that investigate the reasons behind farmland abandonment. The introduction of econometrics, causal inference, and behavioral economics offered fresh insights into this multifaceted subject.
+Through hands-on experiences, we honed our skills in using statistics and satellite data to measure farmland abandonment. We delved deep into existing theories, and we learned to create surveys that investigate the reasons behind farmland abandonment. The introduction of econometrics, causal inference, and behavioral economics offered fresh insights into this multifaceted subject.  
 Our learning journey wasn't confined to classrooms. During a field excursion, we ventured to Trundholm Mose, a part of the UNESCO Geopark Odsherred on the northwestern corner of Zealand (Sjælland) island. This unique experience allowed us to witness firsthand the outcomes of collaborative efforts to set aside agricultural lands for environmental conservation and rewilding.In this natural haven, we discovered the fascinating interplay between history, conservation, and future prospects.
 
 
