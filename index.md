@@ -29,9 +29,9 @@ My ongoing Ph.D. project focuses on integrating remote sensing observations, soc
 
 
 
-
+##
 <details open>
-  <summary>## News</summary>
+  <summary> News</summary>
 - **[Oct. 2023] Attended the GSC Conference**  
 I recently participated in the GSC Conference hosted by the University of Copenhagen's Green Solutions Centre. This event brought together sustainability experts to discuss innovative environmental solutions.
 
