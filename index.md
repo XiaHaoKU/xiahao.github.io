@@ -47,7 +47,7 @@ It was a truly remarkable opportunity to expand my knowledge and gain insights i
 <details>
   <summary>More News ...</summary>
   <div style="white-space: pre-wrap;">
-   <b>[July 2023] Uncovering Global Farmland Mysteries: My Summer School Adventure1134🌾</b>
+   <b>[July 2023] Uncovering Global Farmland Abandonment: My Summer School Adventure🌾</b>
 
 In July, I attended the "Global Farmland Abandonment" summer school at the University of Copenhagen, led by Prof. <a href="https://ign.ku.dk/english/employees/geography/?pure=en/persons/501467" target="_blank">Alexander Prishchepov</a>. This immersive experience took us deep into the heart of farmland abandonment, revealing its profound impact on agriculture, biodiversity, and climate change.
 
