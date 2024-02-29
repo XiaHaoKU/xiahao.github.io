@@ -6,11 +6,9 @@ layout: homepage
 
 ## About Me
 
-I am an interdisciplinary conservation geographer, trained in conservation and land system science, and ecological economics. In my work, I integrate methodologies from remote sensing, econometrics, spatial ecology, social-ecological networks, and conservation planning to gain insights into coupled human-nature systems and explore nature-based solutions.
+I am an interdisciplinary conservation geographer, trained in conservation and land system science, and ecological economics. In my work, I integrate methodologies from remote sensing, spatial analysis, econometrics, landscape ecology, social-ecological networks, and systematic conservation planning, to gain insights into coupled human-nature systems and explore nature-based solutions.
 
-I am currently working as a Ph.D. student in the <a href="https://ign.ku.dk/english/research/geography/environment-society-developing-countries/" target="_blank"> Environment and Society Group</a> at the University of Copenhagen under the mentorship of Prof.<a href="https://ign.ku.dk/english/employees/geography/?pure=en/persons/501467" target="_blank"> Alexander Prishchepov</a>. I completed my master's degree in Land Economics and bachelor's degree in Land Resource Management.
-
-My ongoing Ph.D. project focuses on integrating remote sensing observations, socioeconomic data, and robust econometric causal inference to assess the effects of conservation actions (including protected areas and ecological function zones) on <a href="https://www.ipbes.net/glossary-tag/natures-contributions-people" target="_blank"> nature's contributions to people</a> and human well-being, while also developing systematic conservation planning to identify conservation priorities for a nature-positive future.
+I received my Ph.D. in February 2024 from the University of Copenhagen, where my research focused on understanding the causal effects of conservation actions on <a href="https://www.ipbes.net/glossary-tag/natures-contributions-people" target="_blank"> nature's contributions to people</a> and human well-being. It also examined the trade-offs and synergies between social-ecological outcomes derived from these actions. Furthermore, I worked on developing systematic conservation planning for a nature-positive future.
 
 
 
