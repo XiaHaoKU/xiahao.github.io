@@ -16,6 +16,7 @@ I received my Ph.D. in February 2024 from the University of Copenhagen, where my
 - **Conservation assessment:** Evaluating the impacts of conservation/development initiatives on ecosystem services and human well-being
 - **Spatial planning:** Spatial prioritization in systematic conservation planning
 - **Land use/land cover:** Social-ecological consequences of land use/land cover change
+- Economics for Conservation
 
 
 
